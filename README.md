@@ -1,0 +1,3 @@
+MSDA Coursework & Assignments
+
+This repository contains coursework, assignments, and projects completed as part of my Master of Science in Data Analytics (MSDA) program. The materials here demonstrate my applied skills in data analysis, statistics, programming, and machine learning across a variety of real-world datasets and problem domains.
